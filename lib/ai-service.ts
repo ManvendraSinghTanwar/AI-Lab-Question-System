@@ -28,7 +28,7 @@ interface EvaluationResponse {
 class AIService {
   private apiKey: string
   private baseUrl = "https://api.together.xyz/v1"
-  private model = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+  private model = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 
   constructor(apiKey: string) {
     this.apiKey = apiKey
