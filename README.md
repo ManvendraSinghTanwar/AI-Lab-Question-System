@@ -198,4 +198,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for better education through AI**
+**Made with ❤️ by Manvendra Singh Tanwar for better education through AI**
