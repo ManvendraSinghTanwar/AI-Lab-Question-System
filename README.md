@@ -30,7 +30,25 @@ An intelligent platform designed to revolutionize laboratory education through A
 - **Responsive Layout**: Works seamlessly across desktop and mobile devices
 - **Dark/Light Theme**: Adaptive theming for better user experience
 
-## 🚀 Technology Stack
+## � Screenshots
+
+### Dashboard Overview
+![Dashboard](images/dashboard.png)
+*Main dashboard with question management and analytics*
+
+### AI Question Generation
+![Generated Questions](images/generated-question.png)
+*AI-powered question generation with multiple variations*
+
+### Student Portal
+![Student Portal](images/student-portal.png)
+*Clean student interface for accessing assigned questions*
+
+### Student Management
+![Student Management](images/student.png)
+*Comprehensive student management and progress tracking*
+
+## �🚀 Technology Stack
 
 - **Frontend**: Next.js 15, React 19, TypeScript
 - **Styling**: Tailwind CSS with custom animations
